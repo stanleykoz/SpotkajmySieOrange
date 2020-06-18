@@ -1,6 +1,7 @@
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+//My class representing set period of time
 public class TimeSlot {
     boolean isAvaliable;
     Date beginning;
